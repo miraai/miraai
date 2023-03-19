@@ -3,10 +3,11 @@
 ```hcl
 🔭 Infrastructure Engineer at Rasa
 ⚡ Live and breathe infrastructure as code
-🌱 Currently learning Pulumi
+🌱 Working on CKA
 🌒 Learning more about Open Source
 ❓ Love/hate relationship with programming
 🔧 When I grow up I want to be a car mechanic
+🐕 Have a staffy, secretly a cat
 ```
 
 ---
